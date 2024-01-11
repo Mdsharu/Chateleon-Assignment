@@ -1,0 +1,30 @@
+
+.welcome-container {
+    text-align: center;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 400px;
+    background-color: #9591912d;
+}
+  
+h1 {
+    color: #333;
+}
+/* p {
+    color: black;
+} */
+
+.myBtn {
+    padding: 12px;
+    margin: 15px;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    border-radius: 22px;
+    color: white;
+    background-color: rgb(77, 77, 74);
+}
+.myBtn:hover {
+    cursor: pointer;
+}
